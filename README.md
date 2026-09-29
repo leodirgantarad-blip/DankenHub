@@ -398,7 +398,7 @@ Kamu dapat menambahkan package aplikasi lain sesuai kebutuhan.
 
 Clone repository:
 
-git clone https://github.com/USERNAME/DANKEN-APP-HUB.git
+git clone https://github.com/leodirgantarad-blip/DankenHub
 cd DANKEN-APP-HUB
 
 Jalankan:
