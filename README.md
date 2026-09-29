@@ -104,7 +104,7 @@ pkg install python
 
 2. Clone Repository
 
-git clone https://github.com/USERNAME/DANKEN-APP-HUB.git
+git clone https://github.com/leodirgantarad-blip/DankenHub
 
 Masuk ke folder:
 
